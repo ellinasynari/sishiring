@@ -14,6 +14,8 @@
   <link rel="stylesheet" href="<?= base_url('assets/plugins/icheck-bootstrap/icheck-bootstrap.min.css')?>">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?= base_url('assets/dist/css/adminlte.min.css')?>">
+	<!-- Favicons -->
+  <link href="<?= base_url("assets/logo/logo.png")?>" rel="icon">
 </head>
 <body class="hold-transition login-page">
 <div class="login-box">
